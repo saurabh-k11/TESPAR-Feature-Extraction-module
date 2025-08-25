@@ -1,4 +1,4 @@
-#TESPAR Feature Extraction in Verilog
+TESPAR Feature Extraction in Verilog
 
 This project implements a Time Encoded Signal Processing And Recognition (TESPAR) feature extraction system in Verilog.
 It processes sampled audio data and generates feature vectors (histograms of alphabets) using zero-crossing analysis.
